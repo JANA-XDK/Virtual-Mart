@@ -1,4 +1,4 @@
-###Virtual Mart####
+VIRTUAL MART - Innovative ECommerce App with AR and AI Features
 An innovative ecommerce application that combines Augmented Reality (AR) and Artificial Intelligence (AI) to provide a unique shopping experience with size recommendations.
 Virtual Mart is a cutting-edge ecommerce application that leverages Augmented Reality (AR) and Artificial Intelligence (AI) to enhance the shopping experience. The application offers features like size recommendations and immersive product views, aiming to provide a seamless and interactive shopping journey.
 
