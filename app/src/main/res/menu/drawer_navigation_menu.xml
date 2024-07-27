@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/grpFeatures"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/website"
+            android:icon="@drawable/ic_website"
+            android:title="Buy/Sell" />
+        <item
+            android:id="@+id/scanner"
+            android:icon="@drawable/ic_scan"
+            android:title="AR-QR scanner" />
+        <item
+            android:id="@+id/order"
+            android:icon="@drawable/ic_order"
+            android:title="Your orders" />
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_logout"
+            android:title="Logout" />
+    </group>
+
+</menu>

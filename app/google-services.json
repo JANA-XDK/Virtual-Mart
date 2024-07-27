@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "558975885054",
+    "project_id": "sceneformar",
+    "storage_bucket": "sceneformar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558975885054:android:5fc94bf28f2a0174bb4faf",
+        "android_client_info": {
+          "package_name": "com.example.sceneformar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgoddvR-d6Qf708Yz6OTmpbpeUQKMzaF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

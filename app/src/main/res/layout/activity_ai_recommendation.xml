@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/chestSizeEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:hint="Enter chest size"
+        android:inputType="numberDecimal"
+        android:minHeight="48dp" />
+
+    <EditText
+        android:id="@+id/shoulderSizeEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/chestSizeEditText"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:hint="Enter shoulder size"
+        android:inputType="numberDecimal"
+        android:minHeight="48dp" />
+
+    <EditText
+        android:id="@+id/lengthSizeEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/shoulderSizeEditText"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="16dp"
+        android:hint="Enter length"
+        android:inputType="numberDecimal"
+        android:minHeight="48dp" />
+
+    <EditText
+        android:id="@+id/userSizeEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lengthSizeEditText"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="16dp"
+        android:hint="Enter your size"
+        android:inputType="numberDecimal"
+        android:minHeight="48dp" />
+
+
+    <Button
+        android:id="@+id/getRecommendationButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Get Suggestions"
+        android:layout_below="@id/userSizeEditText"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/recommendationTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/getRecommendationButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:textSize="18sp" />
+
+</RelativeLayout>
