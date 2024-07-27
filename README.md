@@ -26,8 +26,7 @@ To get started with Virtual Mart, follow one of these methods:
 
 5. Contributors
 
-Android Application (AR & AI)
-Janardhan (Owner) - Responsible for implementing AR and AI features for size recommendations.
+JANARDHAN M (Owner) - Android Application (AR & AI) - Responsible for implementing AR and AI features for size recommendations.
 
 License
 This project is licensed under the Apache License, Version 2.0. For details, visit http://www.apache.org/licenses/.
