@@ -7,7 +7,6 @@ Virtual Mart is a cutting-edge ecommerce application that leverages Augmented Re
 ## Preview
 
 ![Preview Image 1](https://user-images.githubusercontent.com/90695071/181933417-28928579-1f7d-4cce-9e8a-937374d17a81.png)
-![Preview Image 2](https://github.com/user-attachments/assets/beff9159-fe24-4723-96b7-59bcd212635c)
 
 ## Features
 1. Size Recommendations: Powered by AI, the application provides personalized size recommendations to ensure a perfect fit for your purchases.
